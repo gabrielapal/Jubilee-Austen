@@ -7,4 +7,6 @@ Skillcrush project for practice building a static website- a portfolio homepage 
 - HTML
 - CSS
 
+[**Live Project Here**](https://gabrielapal.github.io/Jubilee-Austen/)
+
 ![image](https://github.com/gabrielapal/Jubilee-Austen/assets/127886470/52a3a8c3-1f8b-425f-a501-e5c1c73c6c2f)
